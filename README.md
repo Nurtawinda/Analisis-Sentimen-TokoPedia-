@@ -1,4 +1,4 @@
-SENTIMENT ANALYSIS TOKOPEDIA
+**SENTIMENT ANALYSIS TOKOPEDIA**
 
 Deskripsi Project
 Project ini bertujuan untuk menganalisis sentimen pengguna terhadap aplikasi Tokopedia berdasarkan ulasan yang diberikan di platform digital. Analisis dilakukan untuk memahami persepsi pengguna serta mengidentifikasi tingkat kepuasan pengguna terhadap layanan aplikasi.
@@ -9,6 +9,9 @@ Tujuan
 - Mengklasifikasikan ulasan pengguna ke dalam kategori positif, negatif, dan netral
 - Menganalisis distribusi sentimen pengguna
 - Membandingkan performa model deep learning dan beberapa model machine learning dalam klasifikasi sentimen
+
+Dataset dapat diakses melalui:
+([ulasan_tokped.csv](https://drive.google.com/file/d/1HJNZWDmMtI6Ng-ojX9TVhifF7p7imPAF/view?usp=sharing))
 
 Tools dan Teknologi
 - Python
